@@ -14,6 +14,7 @@
         "removable": true,
         "uki": false
     },
+    "custom_commands": [],
     "disk_config": {
         "btrfs_options": {
             "snapshot_config": null
