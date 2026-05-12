@@ -10,7 +10,7 @@
     "archinstall-language": "English",
     "auth_config": {},
     "bootloader_config": {
-        "bootlodader": "Grub",
+        "bootloader": "Grub",
         "removable": true,
         "uki": false
     },
@@ -32,7 +32,7 @@
                         ],
                         "fs_type": "fat32",
                         "mount_options": [],
-                        "mounypoint": "/boot",
+                        "mountpoint": "/boot",
                         "obj_id": "f78d1eec-60d3-4cbc-88a1-a2f95a100b9a",
                         "size": {
                             "sector_size": {
@@ -59,7 +59,7 @@
                         "flags": [],
                         "fs_type": "ext4",
                         "mount_options": [],
-                        "mounypoint": "/",
+                        "mountpoint": "/",
                         "obj_id": "6731c308-ab38-42ca-a3dd-83c602371b0f",
                         "size": {
                             "sector_size": {
